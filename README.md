@@ -5,7 +5,7 @@
 
 🎓 Master of control science and engineering
 
-> _"Existence precedes essence."_  
+> _"L'existence précède l'essence."_  
 > — Jean-Paul Sartre  
 
 <table>
