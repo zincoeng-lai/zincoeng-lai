@@ -1,41 +1,30 @@
 # 👋 Hi, I'm Jensen Li
-🎓 Master of Control Science and Engineering
-💻 Focusing on C/C++, MCUs & Linux
 
----
+🔍 **Always exploring!**
+
+> "Manage your life like you manage a company"
 
 ## 🚀 About Me
-🛫 My journey began in researching **robotic and formation control for AAVs & ASVs**
-🏠 Now, I specialize in **electrical control** for home appliance products
-🌟 I believe in creating meaningful work through hands-on experience
-💡 "Manage your life like you manage a company"
+🧑‍💻 Electronic control engineer
+
+🎓 Master of control science and engineering
+
+🌈 Believe in creating meaningful work through hands-on experience
 
 > _"Existence precedes essence."_  
 > — Jean-Paul Sartre  
 
----
-
 ## 🧰 Skills
 - 💡 **Programming:** C/C++, Python, Matlab
-- 🔌 **Embedded Systems:** MCUs, Robotics, Firmware
-- 🐧 **Platforms:** Linux, RTOS
-- 🎛️ **Application:** UI/UX for embedded devices, Control Systems, ROS
-- 🤖 **Research:** Robotic control, Autonomous systems
-
----
+- 🔌 **Systems:** Linux, RTOS, MCU, ROS
+- 🎛️ **Application:** UI/UX, Embedded systems, Control Systems
+- 🤖 **Research:** Robotic control, Autonomous systems (UAV-USV)
 
 ## ⚡ Fun Facts
-- 🚴 cycling & 🏊‍♂️ swimming & 🏕️ hiking
+- 🍕 Pizza enthusiast
 - 🚙 Road trip driver
 - 🐕 Crazy dogs petter
-- 🍕 Pizza enthusiast
-- 🔍 Always exploring
-
----
-
-## 🤝 Let’s Connect!
-🤗 Open to new ideas & teamwork  
-📫 Feel free to reach out or connect if you share similar interests!
+- 🚴 cycling & 🏊‍♂️ swimming & 🏕️ hiking
 
 <!-- Optionally add social links here! -->
 <!-- 🌐 [LinkedIn](#) • 🌎 [Website](#) • 🐦 [Twitter](#) -->
