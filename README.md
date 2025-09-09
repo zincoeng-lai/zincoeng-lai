@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jensen Li
+# 👋 Hi, I'm Jensen
 🔍 **Always exploring!**
 
 🧑‍💻 Electronic control engineer
